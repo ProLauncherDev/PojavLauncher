@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ProLauncher" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1DB954</item> <!-- Bright Green -->
+        <item name="colorPrimaryVariant">#14833a</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+</resources>
