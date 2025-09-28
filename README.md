@@ -149,3 +149,9 @@ Future plans include:
 * Enhancing the mod installation experience.
 
 We welcome community feedback and suggestions for our roadmap.  Please feel free to open a feature request in our [issue tracker](https://github.com/PojavLauncherTeam/PojavLauncher/issues).
+# Pro Launcher (Fork of PojavLauncher)
+
+This app is a modified fork of PojavLauncher (https://github.com/PojavLauncherTeam/PojavLauncher).
+PojavLauncher is licensed under GNU GPLv3. This fork is also distributed under GPLv3.
+
+Source for this modified build: https://github.com/ProLauncherDev/PojavLauncher
